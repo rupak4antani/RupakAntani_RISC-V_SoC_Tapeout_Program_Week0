@@ -151,4 +151,4 @@ $ sudo reboot
 $ docker run hello-world
 ```
 
-![Installation Check for Docker](Installation_Checks/docker.png)
+![Installation Check for Docker](docker.png)
