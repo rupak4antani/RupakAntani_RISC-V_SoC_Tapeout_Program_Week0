@@ -31,6 +31,7 @@ Some of the open-source tools along with their purpose are mentioned below:
 
 ## Steps for Installing Yosys tool ##
 
+```bash
 $ sudo apt-get update
 $ git clone https://github.com/YosysHQ/yosys.git
 $ cd yosys
@@ -45,11 +46,13 @@ $ sudo make install
 
 ## Steps for Installing Icarus Verilog tool ##
 
+```bash
 $ sudo apt-get update
 $ sudo apt-get install iverilog
 
 ## Steps for Installing GTKWave tool ##
 
+```bash
 $ sudo apt-get update
 $ sudo apt install gtkwave
 
@@ -57,6 +60,7 @@ $ sudo apt install gtkwave
 
 First, download the zip file from https://sourceforge.net/projects/ngspice/files/ and then run the following commands:
 
+```bash
 $ tar -zxvf ngspice-37.tar.gz
 $ cd ngspice-37
 $ mkdir release
@@ -67,6 +71,7 @@ $ sudo make install
 
 ## Steps for Installing Magic tool ##
 
+```bash
 $ sudo apt-get install m4
 $ sudo apt-get install tcsh
 $ sudo apt-get install csh
@@ -83,6 +88,7 @@ $ make install
 
 ## Steps for Installing OpenLane tool ##
 
+```bash
 $ sudo apt-get update
 $ sudo apt-get upgrade
 $ sudo apt install -y build-essential python3 python3-venv python3-pip make git
