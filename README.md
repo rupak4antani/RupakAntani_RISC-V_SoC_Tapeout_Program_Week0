@@ -43,19 +43,19 @@ libboost-python-dev libboost-filesystem-dev zlib1g-dev
 $ make config-gcc
 $ make
 $ sudo make install
-
+```
 ## Steps for Installing Icarus Verilog tool ##
 
 ```bash
 $ sudo apt-get update
 $ sudo apt-get install iverilog
-
+```
 ## Steps for Installing GTKWave tool ##
 
 ```bash
 $ sudo apt-get update
 $ sudo apt install gtkwave
-
+```
 ## Steps for Installing NGSpice tool ##
 
 First, download the zip file from https://sourceforge.net/projects/ngspice/files/ and then run the following commands:
@@ -68,7 +68,7 @@ $ cd release
 $ ../configure --with-x --with-readline=yes --disable-debug
 $ make
 $ sudo make install
-
+```
 ## Steps for Installing Magic tool ##
 
 ```bash
@@ -85,7 +85,7 @@ $ git magic
 $ ./configure
 $ make
 $ make install
-
+```
 ## Steps for Installing OpenLane tool ##
 
 ```bash
@@ -105,3 +105,4 @@ $ sudo groupadd docker
 $ sudo usermod -aG docker $USER
 $ sudo reboot
 $ docker run hello-world
+```
