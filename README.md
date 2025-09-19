@@ -50,7 +50,7 @@ In order to verify the installation, the following command can be run:
 ```bash
 $ yosys
 ```
-![Installation Check for Yosys](Installation_Checks/yosys.png)
+![Installation Check for Yosys](yosys.png)
 
 ## Steps for Installing Icarus Verilog tool ##
 
@@ -65,7 +65,7 @@ In order to verify the installation, the following command can be run:
 $ iverilog -v
 ```
 
-![Installation Check for Icarus Verilog](Installation_Checks/iverilog.png)
+![Installation Check for Icarus Verilog](iverilog.png)
 
 ## Steps for Installing GTKWave tool ##
 
@@ -80,7 +80,7 @@ In order to verify the installation, the following command can be run:
 $ gtkwave - v
 ```
 
-![Installation Check for GTKWave](Installation_Checks/gtkwave.png)
+![Installation Check for GTKWave](gtkwave.png)
 
 ## Steps for Installing NGSpice tool ##
 
@@ -102,7 +102,7 @@ In order to verify the installation, the following command can be run:
 $ ngspice
 ```
 
-![Installation Check for NGSpcie](Installation_Checks/ngspice.png)
+![Installation Check for NGSpcie](ngspice.png)
 
 ## Steps for Installing Magic tool ##
 
@@ -128,7 +128,7 @@ In order to verify the installation, the following command can be run:
 $magic
 ```
 
-![Installation Check for Magic](Installation_Checks/magic.png)
+![Installation Check for Magic](magic.png)
 
 ## Steps for Installing OpenLane tool ##
 
