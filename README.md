@@ -50,6 +50,7 @@ In order to verify the installation, the following command can be run:
 ```bash
 $ yosys
 ```
+![Installation Check for Yosys](Installation_Checks/yosys.png)
 
 ## Steps for Installing Icarus Verilog tool ##
 
@@ -64,6 +65,8 @@ In order to verify the installation, the following command can be run:
 $ iverilog -v
 ```
 
+![Installation Check for Icarus Verilog](Installation_Checks/iverilog.png)
+
 ## Steps for Installing GTKWave tool ##
 
 ```bash
@@ -76,6 +79,8 @@ In order to verify the installation, the following command can be run:
 ```bash
 $ gtkwave - v
 ```
+
+![Installation Check for GTKWave](Installation_Checks/gtkwave.png)
 
 ## Steps for Installing NGSpice tool ##
 
@@ -96,6 +101,8 @@ In order to verify the installation, the following command can be run:
 ```bash
 $ ngspice
 ```
+
+![Installation Check for NGSpcie](Installation_Checks/ngspice.png)
 
 ## Steps for Installing Magic tool ##
 
@@ -121,6 +128,8 @@ In order to verify the installation, the following command can be run:
 $magic
 ```
 
+![Installation Check for Magic](Installation_Checks/magic.png)
+
 ## Steps for Installing OpenLane tool ##
 
 ```bash
@@ -141,3 +150,5 @@ $ sudo usermod -aG docker $USER
 $ sudo reboot
 $ docker run hello-world
 ```
+
+![Installation Check for Docker](Installation_Checks/docker.png)
