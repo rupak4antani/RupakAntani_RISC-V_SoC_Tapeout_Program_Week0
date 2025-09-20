@@ -130,7 +130,7 @@ $ magic
 
 ![Installation Check for Magic](magic.png)
 
-## Steps for Installing OpenLane tool ##
+## Steps for Installing Docker ##
 
 ```bash
 $ sudo apt-get update
