@@ -125,7 +125,7 @@ $ make install
 In order to verify the installation, the following command can be run:
 
 ```bash
-$magic
+$ magic
 ```
 
 ![Installation Check for Magic](magic.png)
