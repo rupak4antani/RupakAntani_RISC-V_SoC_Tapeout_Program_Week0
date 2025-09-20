@@ -77,7 +77,7 @@ $ sudo apt install gtkwave
 In order to verify the installation, the following command can be run:
 
 ```bash
-$ gtkwave - v
+$ gtkwave
 ```
 
 ![Installation Check for GTKWave](gtkwave.png)
